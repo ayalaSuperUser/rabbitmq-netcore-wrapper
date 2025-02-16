@@ -1,0 +1,6 @@
+@RabbitTester_HostAddress = http://localhost:5157
+
+GET {{RabbitTester_HostAddress}}/RabbitMqTesterController/
+Accept: application/json
+
+###
